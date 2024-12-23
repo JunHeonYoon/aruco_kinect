@@ -1,0 +1,5 @@
+img/*.png
+img/*.jpg
+aruco/*.png
+__pycache__
+*.npz
